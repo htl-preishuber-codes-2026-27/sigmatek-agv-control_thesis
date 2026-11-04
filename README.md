@@ -84,7 +84,7 @@ Um mit Online-Editoren wie z.B. https://de.overleaf.com/ arbeiten zu können mü
 
 ```bash
 # Im Projektverzeichnis:
-cd HTL-Braunau-DA-LaTeX-Template
+cd sigmatek-agv-control_thesis
 latexmk -pdf -g -output-directory=build diplomarbeit.tex
 ```
 
